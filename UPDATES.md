@@ -5,7 +5,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 > 🌐 **Cross-Platform Coverage**  
 > - **📊 Developer Updates**: [GitHub Weekly Updates](https://github.com/xpaysh/awesome-agentic-economy/blob/main/UPDATES.md) (This page)
 > - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
-> - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline) *(Coming Soon)*
+> - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
 ## 📊 Current Status - November 10, 2025
 
@@ -747,6 +747,6 @@ const result = await client.callTool('premium-analysis', {
 
 **📈 The agentic economy transformed from concept to $180M+ ecosystem in just 9 months. This changelog documents every major milestone in the fastest-growing technology sector of 2025.**
 
-> 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/agentic-economy-timeline) *(Coming Soon)*
+> 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
 *📅 Updated: November 10, 2025 | 🔄 Next Update: November 17, 2025*

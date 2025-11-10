@@ -15,7 +15,7 @@
 
 > **🔥 NEW: [Weekly Updates](./UPDATES.md)** - Week-by-week changelog of the $180M+ agentic economy explosion  
 > **📰 [Industry Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** - Deep dives on protocols, partnerships, and market trends  
-> **🎯 [Interactive Timeline](https://www.xpay.sh/agentic-economy-timeline)** - Explore the full 2025 agentic inflection point *(Coming Soon)*
+> **🎯 [Interactive Timeline](https://www.xpay.sh/agentic-economy-timeline/)** - Explore the full 2025 agentic inflection point 
 
 **Latest**: MCP v0.4.0 + x402 integration • 500K+ weekly transactions • 492% YoY growth
 
@@ -226,7 +226,7 @@ See our [Contributing Guide](./community/CONTRIBUTING.md) for details.
 
 > **🔥 [Weekly Changelog](./UPDATES.md)** - Track protocol launches, partnerships, and ecosystem growth  
 > **📰 [Industry Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** - Deep market insights and trend analysis  
-> **🎯 [Interactive Timeline](https://www.xpay.sh/agentic-economy-timeline)** - Explore the complete 2025 agentic inflection point
+> **🎯 [Interactive Timeline](https://www.xpay.sh/agentic-economy-timeline/)** - Explore the complete 2025 agentic inflection point
 
 **From $0 to $180M+ in 9 months. Don't miss the next wave.**
 
