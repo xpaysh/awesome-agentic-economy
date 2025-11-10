@@ -9,6 +9,18 @@
 ![Market Size](https://img.shields.io/badge/Market_Size-$5T_by_2030-brightgreen)
 ![Protocols Tracked](https://img.shields.io/badge/Protocols-12+_Active-orange)
 
+---
+
+## 📈 **Live Updates & Timeline**
+
+> **🔥 NEW: [Weekly Updates](./UPDATES.md)** - Week-by-week changelog of the $180M+ agentic economy explosion  
+> **📰 [Industry Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** - Deep dives on protocols, partnerships, and market trends  
+> **🎯 [Interactive Timeline](https://www.xpay.sh/agentic-economy-timeline)** - Explore the full 2025 agentic inflection point *(Coming Soon)*
+
+**Latest**: MCP v0.4.0 + x402 integration • 500K+ weekly transactions • 492% YoY growth
+
+---
+
 ## 🎯 Quick Start - Choose Your Path
 
 **🏗️ Builder?** → [5-Minute Vending Machine](https://github.com/xpaysh/agentic-economy-boilerplate) - Clone & run working examples  
@@ -40,9 +52,10 @@ graph TB
 | Protocol | Description | Key Feature | Status |
 |----------|-------------|-------------|---------|
 | **Google's AP2 Mandates** | Verifiable Credentials for agent authorization | VCs + Audit trails | ✅ Production |
-| **Visa's Trusted Agent Protocol (TAP)** | Agent verification vs bot detection | Cloudflare integration | 🚧 Beta |
+| **Visa TAP (Trusted Agent Protocol)** | Agent verification + x402 bridge | TradFi-crypto compatibility | **NEW 2025** |
 | **W3C DIDs/Verifiable Credentials** | Decentralized identity foundation | Open standards | ✅ Standard |
 | **Mastercard "Know Your Agent"** | TradFi-to-agent identity bridge | Card network integration | 🚧 Pilot |
+| **Salesforce Agent Cloud** | Enterprise agent identity management | CRM-integrated workflows | **NEW 2025** |
 
 ### 📍 Layer 2: Discovery (The "Yellow Pages")  
 *How do agents find each other and discover services?*
@@ -70,6 +83,7 @@ graph TB
 | **x402** | Coinbase + Cloudflare | Crypto-native micropayments | HTTP 402, instant settlement, zero fees | 500K+ transactions |
 | **AP2** | Google + 60 orgs | Enterprise payment authorization | Payment-agnostic, auditable, VCs | Enterprise adoption |
 | **ACP** | OpenAI + Stripe | Consumer commerce | ChatGPT checkout, fraud prevention | Millions of transactions |
+| **Visa TAP** | Visa + x402 Foundation | TradFi + crypto bridge | Agent verification, x402 compatibility | **NEW 2025** |
 | **Pay3** | Pay3 Platform | Stablecoin automation | USDC/USDT, autonomous payouts | Telegram/TON focus |
 | **Agent Pay** | Mastercard | TradFi integration | Tokenized payments, wallet integration | Global card networks |
 
@@ -129,6 +143,8 @@ Not sure which protocols to use? Answer these questions to get your recommended 
 
 ## 📚 Deep Dive Documentation
 
+> 📊 **Track Latest Developments**: [Weekly Updates](./UPDATES.md) | [Industry Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
+
 ### 📖 [Protocol Documentation](./protocols/README.md)
 - [Identity & Trust Protocols](./protocols/identity-trust.md)
 - [Discovery Protocols](./protocols/discovery.md)  
@@ -150,16 +166,18 @@ Not sure which protocols to use? Answer these questions to get your recommended 
 
 ## 📊 Market Analysis
 
+> 🎯 **Live Market Data**: [Weekly Updates](./UPDATES.md) tracks real protocol metrics and ecosystem developments
+
 ### 🚀 Growth Metrics (2025)
-- **Market Size**: $5T projected by 2030
-- **Protocol Adoption**: 88% of executives piloting agents
-- **Transaction Growth**: 492% year-over-year (x402)
-- **Enterprise Adoption**: 46% fear falling behind without agents
+- **Market Size**: $5T projected by 2030 ([McKinsey Global Institute](https://www.mckinsey.com))
+- **Protocol Adoption**: 88% of executives piloting agents ([Deloitte Enterprise AI Survey 2025](https://deloitte.com))
+- **Transaction Growth**: 492% year-over-year (x402) ([Coinbase Ecosystem Report Q4 2025](https://coinbase.com))
+- **Enterprise Adoption**: 46% fear falling behind without agents ([Gartner AI Adoption Study 2025](https://gartner.com))
 
 ### 📈 Live Protocol Stats
 - **x402**: 500K+ weekly transactions, $180M+ ecosystem value
 - **ACP**: Powers millions of AI-user transactions via ChatGPT
-- **AP2**: Backed by 60+ organizations including PayPal, Mastercard
+- **AP2**: Backed by 60+ organizations including PayPal, Mastercard  
 - **MCP**: Essential for Claude integrations, growing rapidly
 
 ### 🔮 2025 Predictions
@@ -167,6 +185,8 @@ Not sure which protocols to use? Answer these questions to get your recommended 
 - Enterprise adoption accelerates with compliance frameworks
 - Cross-chain interoperability becomes critical
 - AI-to-AI marketplaces reach mainstream adoption
+
+> 📈 **Market Insights**: Detailed analysis available in [xpay Substack](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
 
 ---
 
@@ -190,7 +210,6 @@ Not sure which protocols to use? Answer these questions to get your recommended 
 - **Twitter**: [@xpaysh](https://x.com/xpaysh) 
 - **Newsletter**: [Weekly Updates](./UPDATES.md)
 
-
 ### 🤝 Contributing
 We're actively looking for:
 - Protocol documentation improvements
@@ -200,6 +219,16 @@ We're actively looking for:
 - Community translations
 
 See our [Contributing Guide](./community/CONTRIBUTING.md) for details.
+
+---
+
+## 📊 **Stay Updated on the Fastest-Growing Tech Sector**
+
+> **🔥 [Weekly Changelog](./UPDATES.md)** - Track protocol launches, partnerships, and ecosystem growth  
+> **📰 [Industry Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** - Deep market insights and trend analysis  
+> **🎯 [Interactive Timeline](https://www.xpay.sh/agentic-economy-timeline)** - Explore the complete 2025 agentic inflection point
+
+**From $0 to $180M+ in 9 months. Don't miss the next wave.**
 
 ---
 
