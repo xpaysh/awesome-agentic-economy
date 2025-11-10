@@ -23,7 +23,7 @@ Comprehensive timeline and updates for the autonomous AI economy. Track protocol
 | **[IBM ACP](https://ibm.com/acp)** | 🟡 Beta | v0.8.0 | Enterprise | 🔄 Development | Enterprise trials |
 | **[XMTP](https://xmtp.org/)** | 🟢 Production | v3.0.0 | [xmtp](https://github.com/xmtp) | 📈 Active | Web3 messaging |
 
-### Weekly Metrics (Week of January 20, 2025)
+### Weekly Metrics (Week of November 10, 2025)
 - **🔥 Hottest Protocol**: x402 (492% YoY growth)
 - **📈 New Integrations**: 12 new x402 facilitators this week
 - **🛠️ Framework Updates**: MCP v0.4.0 with improved tool calling
@@ -117,7 +117,7 @@ Comprehensive timeline and updates for the autonomous AI economy. Track protocol
 
 ### 🚀 Latest Releases & Updates
 
-#### This Week (January 20, 2025)
+#### This Week (November 10, 2025)
 ```diff
 + MCP v0.4.0: Enhanced tool calling with better context management
 + x402 SDK v1.2.0: Improved error handling and retry logic
@@ -125,7 +125,7 @@ Comprehensive timeline and updates for the autonomous AI economy. Track protocol
 + LangGraph v0.9.0: Advanced workflow orchestration capabilities
 ```
 
-#### Coming This Week (January 27, 2025)
+#### Coming This Week (November 17, 2025)
 - **AP2 Enterprise SDK**: Beta release for enterprise integrators
 - **XMTP v3.1**: Enhanced decentralized messaging for agent networks
 - **Olas Registry v2**: Improved on-chain agent discovery mechanisms
@@ -272,4 +272,4 @@ const result = await client.callTool('premium-analysis', {
 
 **📈 The agentic economy transformed from concept to $180M+ ecosystem in just 9 months. Track the continuing evolution here as we build toward the $5T economy of 2030.**
 
-*Last updated: January 20, 2025 | Next update: January 27, 2025*
+*Last updated: November 10, 2025 | Next update: November 17, 2025*
