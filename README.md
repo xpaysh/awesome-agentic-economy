@@ -186,15 +186,10 @@ Not sure which protocols to use? Answer these questions to get your recommended 
 ## 👥 Community & Resources
 
 ### 💬 Join the Community
-- **Discord**: [Agentic Economy Builders](link)
-- **Twitter**: [@AgenticEconomy](link) 
-- **Newsletter**: [Weekly Protocol Updates](link)
-- **Telegram**: [Protocol Updates Channel](link)
+- **Discord**: [Agentic Economy Builders](https://discord.gg/qtanBNnJ)
+- **Twitter**: [@xpaysh](https://x.com/xpaysh) 
+- **Newsletter**: [Weekly Updates](./UPDATES.md)
 
-### 📅 Upcoming Events
-- Monthly Protocol Sprint Calls
-- Quarterly Ecosystem Conference
-- Weekly Twitter Spaces
 
 ### 🤝 Contributing
 We're actively looking for:
@@ -210,22 +205,23 @@ See our [Contributing Guide](./community/CONTRIBUTING.md) for details.
 
 ## 🔗 Related Resources
 
-### 🎯 Other Awesome Lists                                                                                              
-- [Awesome x402](https://github.com/xpaysh/awesome-x402) - Deep dive on HTTP 402 payments                              
-- [Awesome AI Agents](link) - General AI agent resources                                                               
-- [Awesome Web3 Payments](link) - Crypto payment protocols                                                             
+### 🎯 Other Awesome Lists
+- [Awesome x402](https://github.com/xpaysh/awesome-x402) - Deep dive on HTTP 402 payments
+- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - General AI agent resources
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Large Language Model applications
+- [Awesome Web3](https://github.com/ahmet/awesome-web3/) - Web3 ecosystem resources                                                             
 
-###  xpay.sh Ecosystem
-- [xpay.sh](https://www.xpay.sh/) - The official website for xpay.sh.
-- [GitHub](https://github.com/xpaysh) - The GitHub organization for xpay.sh.
-- [Docs](https://docs.xpay.sh) - The official documentation for xpay.sh.
-- [Discord](https://discord.gg/qtanBNnJ) - Join the xpay.sh community on Discord.
+### {xpay✦} Ecosystem
+- [{xpay✦}](https://www.xpay.sh/) - The official website for {xpay✦}
+- [GitHub](https://github.com/xpaysh) - The GitHub organization for {xpay✦}
+- [Docs](https://docs.xpay.sh) - The official documentation for {xpay✦}
+- [Discord](https://discord.gg/qtanBNnJ) - Join the {xpay✦} community on Discord
 
-### 📚 Official Documentation                                                                                           
-- [x402 Foundation Docs](https://docs.x402.org)                                                                        
-- [Google A2A Protocol](https://developers.google.com/a2a)                                                             
-- [Anthropic MCP](https://modelcontextprotocol.io)                                                                     
-- [OpenAI ACP Documentation](https://platform.openai.com/docs/acp)
+### 📚 Official Documentation
+- [x402 Foundation Docs](https://x402.gitbook.io/x402)
+- [Google A2A Protocol](https://a2a-protocol.org/latest/)
+- [Anthropic MCP](https://modelcontextprotocol.io)
+- [OpenAI ACP Documentation](https://developers.openai.com/commerce/)
 ---                                                                                                                    
 
                                                                                                                        
