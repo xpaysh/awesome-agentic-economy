@@ -210,31 +210,38 @@ See our [Contributing Guide](./community/CONTRIBUTING.md) for details.
 
 ## 🔗 Related Resources
 
-### 🎯 Other Awesome Lists
-- [Awesome x402](https://github.com/xpaysh/awesome-x402) - Deep dive on HTTP 402 payments
-- [Awesome AI Agents](link) - General AI agent resources
-- [Awesome Web3 Payments](link) - Crypto payment protocols
+### 🎯 Other Awesome Lists                                                                                              
+- [Awesome x402](https://github.com/xpaysh/awesome-x402) - Deep dive on HTTP 402 payments                              
+- [Awesome AI Agents](link) - General AI agent resources                                                               
+- [Awesome Web3 Payments](link) - Crypto payment protocols                                                             
 
-### 📚 Official Documentation
-- [x402 Foundation Docs](https://docs.x402.org)
-- [Google A2A Protocol](https://developers.google.com/a2a)
-- [Anthropic MCP](https://modelcontextprotocol.io)
+###  xpay.sh Ecosystem
+- [xpay.sh](https://www.xpay.sh/) - The official website for xpay.sh.
+- [GitHub](https://github.com/xpaysh) - The GitHub organization for xpay.sh.
+- [Docs](https://docs.xpay.sh) - The official documentation for xpay.sh.
+- [Discord](https://discord.gg/qtanBNnJ) - Join the xpay.sh community on Discord.
+
+### 📚 Official Documentation                                                                                           
+- [x402 Foundation Docs](https://docs.x402.org)                                                                        
+- [Google A2A Protocol](https://developers.google.com/a2a)                                                             
+- [Anthropic MCP](https://modelcontextprotocol.io)                                                                     
 - [OpenAI ACP Documentation](https://platform.openai.com/docs/acp)
+---                                                                                                                    
 
----
+                                                                                                                       
 
-## ⭐ Star History
+## 📄 License                                                                                                           
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xpaysh/awesome-agentic-economy&type=Timeline)](https://star-history.com/#xpaysh/awesome-agentic-economy&Timeline)
+                                                                                                                       
 
----
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)          
 
-## 📄 License
+                                                                                                                       
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+This work is licensed under [Creative Commons Zero v1.0 Universal](LICENSE).                                           
 
-This work is licensed under [Creative Commons Zero v1.0 Universal](LICENSE).
+                                                                                                                       
 
----
+---   
 
 **🚀 Ready to build the agentic economy? Start with our [5-minute boilerplates](https://github.com/xpaysh/agentic-economy-boilerplate) and join thousands of developers building autonomous agent systems!**
