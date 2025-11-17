@@ -206,7 +206,7 @@ Not sure which protocols to use? Answer these questions to get your recommended 
 ## 👥 Community & Resources
 
 ### 💬 Join the Community
-- **Discord**: [Agentic Economy Builders](https://discord.gg/qtanBNnJ)
+- **Discord**: [Agentic Economy Builders](https://discord.gg/vukXDGT7n5)
 - **Twitter**: [@xpaysh](https://x.com/xpaysh) 
 - **Newsletter**: [Weekly Updates](./UPDATES.md)
 
@@ -244,7 +244,7 @@ See our [Contributing Guide](./community/CONTRIBUTING.md) for details.
 - [{xpay✦}](https://www.xpay.sh/) - The official website for {xpay✦}
 - [GitHub](https://github.com/xpaysh) - The GitHub organization for {xpay✦}
 - [Docs](https://docs.xpay.sh) - The official documentation for {xpay✦}
-- [Discord](https://discord.gg/qtanBNnJ) - Join the {xpay✦} community on Discord
+- [Discord](https://discord.gg/vukXDGT7n5) - Join the {xpay✦} community on Discord
 
 ### 📚 Official Documentation
 - [x402 Foundation Docs](https://x402.gitbook.io/x402)

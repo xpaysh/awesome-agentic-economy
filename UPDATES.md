@@ -23,37 +23,48 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 
 # 📅 Weekly Updates
 
+## 📅 Week of November 17, 2025
+**Status**: 📝 Publishing on November 24, 2025
+
+[📄 **Preview** →](./updates/2025-11-17.md)
+
+This week's update will cover protocol developments, ecosystem updates, and developer resources from November 17-23, 2025.
+
+---
+
 ## 📅 Week of November 10, 2025
-> 📰 **[Detailed Analysis](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)** | Industry trends and market insights
+**Theme**: Payment Infrastructure Giants Enter the Agentic Economy
 
-### Added
+[📄 **Full Update** →](./updates/2025-11-10.md)
+
+### Major Developments
+
+**Payment Networks Embrace Stablecoins**:
+- **Visa**: Pilots direct stablecoin (USDC) payouts for creators and gig workers
+- **Mastercard + Thunes**: Launches stablecoin wallet payouts via Mastercard Move
+
+**Cloud & AI Platforms**:
+- **Google**: Introduces agentic checkout for Shopping (autonomous purchases with approval)
+- **AWS**: Publishes agentic payments architecture using Amazon Bedrock agents
+
+### Developer Impact
+
+- Traditional payment rails (Visa Direct, Mastercard Move) extending to stablecoin endpoints
+- Multi-agent orchestration patterns for payment routing (AWS Bedrock framework)
+- Consumer trust models emerging (Google's approval-gated autonomy)
+- 24/7 instant settlement becoming standard
+
+### Protocol Updates
+
 - **MCP v0.4.0**: Enhanced tool calling with better context management
-- **x402 SDK v1.2.0**: Improved error handling and retry logic  
+- **x402 SDK v1.2.0**: Improved error handling and retry logic
 - **12 new x402 facilitators**: BNB Chain ecosystem expansion continues
-- **15% community growth**: Discord activity surge with new developer onboarding
 
-```typescript
-// MCP v0.4.0: New payment integration
-import { MCPClient } from '@modelcontextprotocol/sdk';
-import { X402Provider } from '@x402/mcp';
+### Ecosystem Growth
 
-const client = new MCPClient({
-  paymentProvider: new X402Provider({
-    network: 'base',
-    token: 'USDC'
-  })
-});
-
-// Enhanced tool calling with automatic payments
-const result = await client.callTool('premium-analysis', {
-  data: marketData,
-  payment: { amount: 0.05 }
-});
-```
-
-### Changed
-- **Transaction volume**: Reached $180M+ weekly across all protocols (+8% vs last week)
-- **x402 adoption**: 500K+ weekly transactions, maintaining 492% YoY growth trajectory
+- **Transaction volume**: $180M+ weekly across all protocols (+8% vs last week)
+- **x402 adoption**: 500K+ weekly transactions, maintaining 492% YoY growth
+- **Community**: 15% growth in Discord activity with new developer onboarding
 
 ---
 
@@ -583,7 +594,7 @@ const response = await fetch('/api/credit-score', {
 
 - [Complete 2025 Timeline Research](./docs/timeline-research.md)
 - [Protocol Integration Patterns](./protocols/README.md)  
-- [Community Discussion Archive](https://discord.gg/qtanBNnJ)
+- [Community Discussion Archive](https://discord.gg/vukXDGT7n5)
 
 ---
 
@@ -725,7 +736,7 @@ const result = await client.callTool('premium-analysis', {
 - [Complete 2025 Timeline Research](./docs/timeline-research.md)
 - [Protocol Integration Patterns](./protocols/README.md)
 - [Implementation Examples](https://github.com/xpaysh/agentic-economy-boilerplate)
-- [Community Discussion Archive](https://discord.gg/qtanBNnJ)
+- [Community Discussion Archive](https://discord.gg/vukXDGT7n5)
 
 ---
 
@@ -738,7 +749,7 @@ const result = await client.callTool('premium-analysis', {
 4. **Developer Tools**: Share new tools and integration examples
 
 ### 📢 Stay Connected
-- **Discord**: [Agentic Economy Builders](https://discord.gg/qtanBNnJ) - Real-time discussions
+- **Discord**: [Agentic Economy Builders](https://discord.gg/vukXDGT7n5) - Real-time discussions
 - **Twitter**: [@xpaysh](https://x.com/xpaysh) - Daily updates and announcements  
 - **GitHub**: [Issues & Discussions](https://github.com/xpaysh/awesome-agentic-economy/discussions)
 - **Protocol Documentation**: [protocols/README.md](./protocols/README.md)
