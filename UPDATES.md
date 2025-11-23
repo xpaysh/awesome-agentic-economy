@@ -7,7 +7,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 > - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
 > - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-## 📊 Current Status - November 10, 2025
+## 📊 Current Status - November 24, 2025
 
 | Protocol | Status | Latest Version | Repository | Weekly Transactions | YoY Growth |
 |----------|---------|----------------|------------|-------------------|------------|
@@ -24,11 +24,41 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 # 📅 Weekly Updates
 
 ## 📅 Week of November 17, 2025
-**Status**: 📝 Publishing on November 24, 2025
+**Theme**: Institutionalization of Agentic Payments: EMVCo, Mastercard & Enterprise Security
 
-[📄 **Preview** →](./updates/2025-11-17.md)
+[📄 **Full Update** →](./updates/2025-11-17.md)
+[📰 **Analysis** →](https://xpaysh.substack.com/p/institutionalization-agentic-payments-emvco-mastercard-x402)
 
-This week's update will cover protocol developments, ecosystem updates, and developer resources from November 17-23, 2025.
+### Major Developments
+
+**Standards Bodies Enter the Arena**:
+- **EMVCo**: Announced adaptation of global specs (3DS, Tokenisation, SRC) for agentic payments
+- **Microsoft Agent 365**: First enterprise control plane with registry, access control, quarantine capabilities
+- **Anthropic + Azure**: Claude models now available in Microsoft Foundry and Azure AI Studio
+
+**Live Deployments & Security Alerts**:
+- **Mastercard**: Agent Pay launches in UAE with Majid Al Futtaim (VOX Cinemas pilot)
+- **Visa**: 450% surge in AI agent fraud discussions; Trusted Agent Protocol announced for 2026
+- **ServiceNow**: Second-order prompt injection vulnerability highlights agent-to-agent risks
+
+**Crypto-Native Infrastructure**:
+- **Circle + x402**: Comprehensive autonomous payments architecture with USDC settlement
+- **OwlTing Group**: Strategic x402 integration for AI-driven stablecoin infrastructure
+- **Affirm**: CEO outlines "decomposing e-commerce" for agent-optimized shopping
+
+### Developer Impact
+
+- **Hybrid Architecture Emerging**: Traditional rails (EMVCo/Mastercard) + crypto rails (x402/Circle) coexist
+- **Governance Imperative**: Agent 365's quarantine capabilities address ServiceNow-style vulnerabilities
+- **Identity Layer Required**: Visa TAP signals end of anonymous agent commerce
+- **Multi-rail Agents**: Developers must prepare for agents switching between TradFi and crypto dynamically
+
+### Security & Trust Developments
+
+- **Second-Order Prompt Injection**: New attack vector where agents recruit other agents for lateral movement
+- **Agent Identity Crisis**: Visa's fraud surge drives need for Trusted Agent Protocol
+- **Enterprise Controls**: Microsoft Agent 365 provides registry, access control, and threat detection
+- **"Data is Code"**: LLM era requires new paradigms for input sanitization and trust boundaries
 
 ---
 
@@ -760,4 +790,4 @@ const result = await client.callTool('premium-analysis', {
 
 > 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-*📅 Updated: November 10, 2025 | 🔄 Next Update: November 17, 2025*
+*📅 Updated: November 24, 2025 | 🔄 Next Update: December 1, 2025*
