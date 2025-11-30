@@ -7,7 +7,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 > - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
 > - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-## 📊 Current Status - November 24, 2025
+## 📊 Current Status - November 30, 2025
 
 | Protocol | Status | Latest Version | Repository | Weekly Transactions | YoY Growth |
 |----------|---------|----------------|------------|-------------------|------------|
@@ -22,6 +22,48 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 ---
 
 # 📅 Weekly Updates
+
+## 📅 Week of November 24, 2025
+**Theme**: Worldpay Opens Agentic Commerce Infrastructure & Standards Formalization
+
+[📄 **Full Update** →](./updates/2025-11-24.md)
+[📰 **Analysis** →](https://xpaysh.substack.com/p/worldpay-mcp-agentic-infrastructure-nov-2025)
+
+### Major Developments
+
+**Open Payment Infrastructure**:
+- **Worldpay MCP**: First major processor to open-source agentic payment infrastructure (Nov 24)
+- **EMVCo**: Global standards body announces specification work for agentic payments (Nov 20)
+- **CB Insights**: Market map reveals 90+ companies building agentic commerce tools (Nov 13)
+
+**Economic Enablers**:
+- **Visa/Mastercard Settlement**: $38B interchange reduction improves economics for agent micropayments
+- **Argentina Reforms**: Economic stabilization and capital control removal enable stablecoin adoption
+
+**Consumer Readiness**:
+- **44% of US shoppers** open to using AI bots for shopping (Worldpay survey)
+- Comfort zone: Purchases $50 or less (movie tickets, meals, subscriptions)
+
+### Developer Impact
+
+- **Open Infrastructure**: Worldpay MCP available free with no licensing fees
+- **Multi-Rail Architecture**: Agents will route between traditional (cards) and crypto (x402) rails
+- **Standards Convergence**: EMVCo brings global interoperability to agent payments
+- **Market Validation**: McKinsey projects $1T in agentic retail revenue by 2030
+
+### Protocol Updates
+
+- **Worldpay MCP**: Open Model Context Protocol implementation for payment APIs
+- **EMVCo**: 3DS, Tokenization, and SRC specs being adapted for agent authentication
+- **OpenAI ACP**: ChatGPT users can now shop from Worldpay merchants directly
+
+### Ecosystem Growth
+
+- **90+ companies** mapped in agentic commerce landscape (CB Insights)
+- **40% launched post-2023**, highlighting explosive sector growth
+- **4,700% YoY surge** in AI platform traffic to e-commerce sites (Adobe, July 2025)
+
+---
 
 ## 📅 Week of November 17, 2025
 **Theme**: Institutionalization of Agentic Payments: EMVCo, Mastercard & Enterprise Security
@@ -790,4 +832,4 @@ const result = await client.callTool('premium-analysis', {
 
 > 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-*📅 Updated: November 24, 2025 | 🔄 Next Update: December 1, 2025*
+*📅 Updated: November 30, 2025 | 🔄 Next Update: December 8, 2025*
