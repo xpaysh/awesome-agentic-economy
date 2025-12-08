@@ -7,7 +7,7 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 > - **📰 Industry Analysis**: [xpay Substack - Agentic Economy Weekly](https://xpaysh.substack.com/s/agentic-economy-weekly-updates)
 > - **🎯 Interactive Timeline**: [xpay.sh Timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-## 📊 Current Status - November 30, 2025
+## 📊 Current Status - December 8, 2025
 
 | Protocol | Status | Latest Version | Repository | Weekly Transactions | YoY Growth |
 |----------|---------|----------------|------------|-------------------|------------|
@@ -22,6 +22,40 @@ Developer-focused weekly updates tracking the explosive growth of autonomous AI 
 ---
 
 # 📅 Weekly Updates
+
+## 📅 Week of December 1, 2025
+**Theme**: Institutional Momentum for Agentic Payments & Stablecoin Infrastructure
+
+[📄 **Full Update** →](./updates/2025-12-01.md)
+[📰 **Analysis** →](https://xpaysh.substack.com/p/institutional-momentum-agentic-payments-dec-2025)
+
+### Major Developments
+
+**Macroeconomic & Regulatory Reports**:
+- **IMF**: Comprehensive stablecoin overview emphasizing cross-border settlement role (Dec 4)
+- **Federal Reserve (Atlanta)**: Analysis of major firms betting on agentic AI in payments (Dec 8)
+- **TRM Labs**: Global crypto policy review shows 70%+ jurisdictions advancing stablecoin frameworks (Dec 3)
+
+**Industry Forecasts & Analysis**:
+- **Mastercard**: AI, stablecoins, and circular consumption to shape 2026 payments (Dec 6)
+- **S&P Global**: $155B+ in T-bills held by stablecoin issuers, analyzing stability implications
+- **JPMorgan**: Cross-border trends highlighting AI optimization and cybersecurity priorities
+- **CoinDesk**: Stablecoin adoption "exploding" beyond crypto into payments, payroll, treasury
+
+### Developer Impact
+
+- **Compliance Integration**: TRM Labs frameworks for regulatory-aligned agent transactions
+- **Multi-Rail Architecture**: Traditional (Mastercard, JPMorgan) + crypto (x402) payment routing
+- **Risk Assessment**: S&P-style stability scoring for stablecoin selection in A2A flows
+- **AI Optimization**: Fed-described patterns for intelligent payment routing
+
+### Ecosystem Growth
+
+- **Institutional Recognition**: IMF and Fed validate agentic AI in payments infrastructure
+- **Regulatory Clarity**: 70%+ jurisdictions with advancing stablecoin frameworks
+- **Treasury Integration**: $155B+ stablecoins backed by T-bills, becoming systemically relevant
+
+---
 
 ## 📅 Week of November 24, 2025
 **Theme**: Worldpay Opens Agentic Commerce Infrastructure & Standards Formalization
@@ -674,18 +708,18 @@ const response = await fetch('/api/credit-score', {
 
 ### 🚀 Latest Releases & Updates
 
-#### This Week (November 10, 2025)
+#### This Week (December 8, 2025)
 ```diff
-+ MCP v0.4.0: Enhanced tool calling with better context management
-+ x402 SDK v1.2.0: Improved error handling and retry logic
-+ CrewAI v0.8.0: Better agent coordination and task delegation
-+ LangGraph v0.9.0: Advanced workflow orchestration capabilities
++ IMF Stablecoin Report: Comprehensive analysis of cross-border settlement role
++ Fed Agentic AI Analysis: Major firms' investments in autonomous payment systems
++ TRM Labs Policy Review: 70%+ jurisdictions advancing stablecoin frameworks
++ Mastercard 2026 Forecast: AI agents and stablecoins shaping payments
 ```
 
-#### Coming This Week (November 17, 2025)
-- **AP2 Enterprise SDK**: Beta release for enterprise integrators
-- **XMTP v3.1**: Enhanced decentralized messaging for agent networks
-- **Olas Registry v2**: Improved on-chain agent discovery mechanisms
+#### Coming This Week (December 15, 2025)
+- **EMVCo Updates**: Progress on agentic payment specification work
+- **Worldpay MCP Adoption**: Developer adoption metrics and case studies
+- **Regulatory Guidance**: Expected updates from multiple jurisdictions
 
 ### 💻 Code Spotlight
 
@@ -832,4 +866,4 @@ const result = await client.callTool('premium-analysis', {
 
 > 🎯 **Want to view an interactive timeline?** Visit [xpay.sh/agentic-economy-timeline](https://www.xpay.sh/agentic-economy-timeline/)
 
-*📅 Updated: November 30, 2025 | 🔄 Next Update: December 8, 2025*
+*📅 Updated: December 8, 2025 | 🔄 Next Update: December 15, 2025*
