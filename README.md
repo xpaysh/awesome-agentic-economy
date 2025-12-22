@@ -74,6 +74,8 @@ graph TB
 | **Google's A2A Protocol** | Agent-to-agent communication standard | Real-time coordination | ✅ Production |
 | **Anthropic's MCP** | Agent-to-tool communication | Context sharing | ✅ Production |
 | **IBM's ACP Wire Format** | Cross-framework agent communication | Human-agent inclusion | 🚧 Beta |
+| **Summoner Network** | Agent-to-agent networking | Long-lived TCP sessions + server-decoupled agents | ✅ Production |
+
 
 ### 💰 Layer 4: Commerce (The "Transaction")
 *How do agents exchange value and complete transactions?*
