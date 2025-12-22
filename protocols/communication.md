@@ -11,6 +11,24 @@ The communication layer enables autonomous agents to coordinate, exchange inform
 | **IBM ACP Wire Format** | IBM + Linux Foundation | Cross-framework agent communication | Human-agent inclusion + wire protocol | 🚧 Beta |
 | **XMTP Agent Messaging** | XMTP Labs | Decentralized agent messaging | Web3-native secure messaging | 🚧 Beta |
 | **OpenAI Function Calling** | OpenAI | LLM-to-tool integration | Natural language tool invocation | ✅ Production |
+| **Summoner** | Summoner Network | Long-lived TCP sessions, server-decoupled agents, live duplex negotiations and nonce-chain handshake tracing | ✅ Production |
+
+
+---
+
+## 🧙 Summoner (Agent Networking Stack)
+
+### Overview
+Summoner is an agent-to-agent networking stack with a Python SDK and a Rust relay, designed for server-decoupled agents running over long-lived TCP sessions.
+
+### Key Features
+- **Server-decoupled agents**: agents are separate from servers and can connect to any compatible relay
+- **Persistent sessions**: long-lived duplex TCP connections for live coordination
+- **Handshake tracing**: nonce-chain handshakes (HS*) to trace conversation threads (useful for negotiation and marketplaces)
+- **Templates**: 50+ runnable agent templates including negotiation-style agents
+
+**Links**: [Summoner agents](https://github.com/Summoner-Network/summoner-agents) • [Docs](https://github.com/Summoner-Network/summoner-docs)
+
 
 ---
 
