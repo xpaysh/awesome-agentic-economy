@@ -225,6 +225,7 @@ The negative space. Every entry below has been seen in plugin output or blog pos
 ## Conformance and tooling
 
 - [Universal-Commerce-Protocol/conformance](https://github.com/Universal-Commerce-Protocol/conformance) — official UCP conformance suite.
+- [spck.dev](https://spck.dev) — independent, two-sided UCP conformance tester: kill-rate-validated, spec-cited checks for merchant servers, plus a reverse harness for shopping agents (signatures, mismatched totals, OAuth mix-up). CLI, GitHub Action, live coverage matrix. Unofficial.
 - [`@xpaysh/conformance-fixtures`](https://www.npmjs.com/package/@xpaysh/conformance-fixtures) — golden ACP + UCP request/response payloads cross-validating against canonical schemas via Ajv.
 - [`@xpaysh/storefront-audit`](https://www.npmjs.com/package/@xpaysh/storefront-audit) — `ac-doctor` CLI; audits a live storefront for the discovery surface above.
 - [`@xpaysh/lint-wellknowns`](https://www.npmjs.com/package/@xpaysh/lint-wellknowns) — CI linter; fails builds emitting the "files to not emit" list above.
