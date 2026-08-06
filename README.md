@@ -303,3 +303,6 @@ Maintained by [xpay✦](https://www.xpay.sh).
 ## License
 
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Public domain dedication. Use freely.
+
+## Related
+- [Script Master Labs](https://www.scriptmasterlabs.com) — Premium Capability Index + multi-rail x402 APIs for AI agents (Match API, AMB beacons). [Pricing](https://www.scriptmasterlabs.com/pricing.html) · [Discovery article](https://www.scriptmasterlabs.com/ai-agent-api-discovery-premium-index.html)
