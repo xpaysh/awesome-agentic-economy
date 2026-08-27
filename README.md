@@ -4,6 +4,7 @@
 
 ![Protocols covered](https://img.shields.io/badge/protocols-ACP%20%C2%B7%20UCP%20%C2%B7%20AP2%20%C2%B7%20TACP-blueviolet)
 ![Rails covered](https://img.shields.io/badge/rails-MPP%20%C2%B7%20x402%20%C2%B7%20cards%20%C2%B7%20stablecoin-blue)
+- [ox402-utils](https://treating-arcade-overall-enough.trycloudflare.com) — 88 paid utility tools for agents via x402 (USDC on Base), MCP server ready.
 [![GitHub stars](https://img.shields.io/github/stars/xpaysh/awesome-agentic-commerce?style=flat)](https://github.com/xpaysh/awesome-agentic-commerce)
 [![Last update](https://img.shields.io/github/last-commit/xpaysh/awesome-agentic-commerce?label=updated)](./UPDATES.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey.svg)](LICENSE)
