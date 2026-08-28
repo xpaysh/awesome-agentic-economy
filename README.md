@@ -224,6 +224,7 @@ The negative space. Every entry below has been seen in plugin output or blog pos
 
 ## Conformance and tooling
 
+- [flovoice53-tech/acp-sandbox](https://github.com/flovoice53-tech/acp-sandbox) ([live](https://acp-sandbox.flo-voice1.com)) — hosted mock merchant implementing the ACP `checkout_sessions` lifecycle (create, retrieve, complete, cancel); lets an agent developer test a real checkout integration end to end without a live store or real payment.
 - [Universal-Commerce-Protocol/conformance](https://github.com/Universal-Commerce-Protocol/conformance) — official UCP conformance suite.
 - [`@xpaysh/conformance-fixtures`](https://www.npmjs.com/package/@xpaysh/conformance-fixtures) — golden ACP + UCP request/response payloads cross-validating against canonical schemas via Ajv.
 - [`@xpaysh/storefront-audit`](https://www.npmjs.com/package/@xpaysh/storefront-audit) — `ac-doctor` CLI; audits a live storefront for the discovery surface above.
