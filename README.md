@@ -164,6 +164,7 @@ Platforms without a current entry (OpenCart, Shopware, Spree, Sylius, nopCommerc
 | [Universal-Commerce-Protocol/samples](https://github.com/Universal-Commerce-Protocol/samples) | Sample agents + merchants | UCP | mixed | UCP TSC *(official)* |
 | [Universal-Commerce-Protocol/conformance](https://github.com/Universal-Commerce-Protocol/conformance) | Conformance suite | UCP | mixed | UCP TSC *(official)* |
 | [xpaysh/agentic-commerce-plugin-template](https://github.com/xpaysh/agentic-commerce-plugin-template) | Monorepo template | ACP, UCP, AP2 | TypeScript | xpaysh |
+| [SpendShield](https://github.com/felixpg13-glitch/spendshield) | Policy & authorization layer (spending gates) | Any rail (x402 demo) | Python | felixpg13-glitch |
 
 ## Maintainer's npm packages
 
