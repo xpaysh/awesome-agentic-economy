@@ -164,6 +164,7 @@ Platforms without a current entry (OpenCart, Shopware, Spree, Sylius, nopCommerc
 | [Universal-Commerce-Protocol/samples](https://github.com/Universal-Commerce-Protocol/samples) | Sample agents + merchants | UCP | mixed | UCP TSC *(official)* |
 | [Universal-Commerce-Protocol/conformance](https://github.com/Universal-Commerce-Protocol/conformance) | Conformance suite | UCP | mixed | UCP TSC *(official)* |
 | [xpaysh/agentic-commerce-plugin-template](https://github.com/xpaysh/agentic-commerce-plugin-template) | Monorepo template | ACP, UCP, AP2 | TypeScript | xpaysh |
+| [insightitsGit/prismagenticpay](https://github.com/insightitsGit/prismagenticpay) | Policy-authority kernel: verifies AP2 mandates and reserves budget before Stripe capture | AP2 | Python | insightitsGit |
 
 ## Maintainer's npm packages
 
